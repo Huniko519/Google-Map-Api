@@ -5,5 +5,4 @@ This is google map api project using google map javascript api.
 <img src="1.jpg">
 <hr>
 <img src="2.jpg">
-<hr>
 <img src="3.jpg">
